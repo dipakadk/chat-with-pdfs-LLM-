@@ -2,7 +2,7 @@
 .idea/
 .vscode/
 *.swp
-
+__pycache__/
 # Ignore operating system files
 .DS_Store
 Thumbs.db
