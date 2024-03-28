@@ -2,7 +2,7 @@
 .idea/
 .vscode/
 *.swp
-__pycache__/
+
 # Ignore operating system files
 .DS_Store
 Thumbs.db
@@ -10,3 +10,6 @@ Thumbs.db
 # Ignore dependencies
 /node_modules
 /vendor
+
+# Ignore Python cache files
+__pycache__/
